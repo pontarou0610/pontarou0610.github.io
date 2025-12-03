@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /generic.html
+Disallow: /elements.html
+Allow: /
+Sitemap: https://pontarou0610.github.io/sitemap.xml
